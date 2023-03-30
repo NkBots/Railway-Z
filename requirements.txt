@@ -19,7 +19,7 @@ psutil
 pybase64
 pymongo
 pyrate_limiter
-Pyrogram==2.0.66
+Pyrogram==2.0.102
 python-dotenv
 python-magic
 python-telegram-bot==13.15
